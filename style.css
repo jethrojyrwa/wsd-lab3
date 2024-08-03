@@ -1,0 +1,24 @@
+header{
+    background-image: url(images/pexels-c1superstar-20694454.jpg);
+    background-size: cover;
+  }
+
+#heroes-h3{
+    text-align: center;
+}
+
+footer{
+  height:50;
+  text-align: center;
+  border-top: 1px black solid;
+}
+
+nav{
+  background-color: lightcoral;
+}
+
+#carouselBostonCollege img{
+  margin: auto;
+  width: 100%;
+  height: auto;
+} 
